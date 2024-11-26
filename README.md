@@ -11,13 +11,12 @@ I'm a 19-year-old software engineer from Belarus.
 
 ### 🛠️ Skills
 
-- List your programming languages here (Go, C++)
-- Any frameworks or libraries you're proficient in
-- PostgreSQL, Linux
+- Go, C++, Bash
+
 
 ### 📫 How to reach me
 
-- GitHub: [Your GitHub username](https://github.com/your-username)
+- GitHub: [Your GitHub username](https://github.com/fnkxyw)
 - Email: akugnerevich@gmail.com
 
 ### 📊 GitHub Stats
