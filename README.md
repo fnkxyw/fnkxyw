@@ -16,7 +16,7 @@ I'm a 19-year-old software engineer from Belarus.
 
 ### 📫 How to reach me
 
-- GitHub: [Your GitHub username](https://github.com/fnkxyw)
+- GitHub: [fnkxyw](https://github.com/fnkxyw)
 - Email: akugnerevich@gmail.com
 
 ### 📊 GitHub Stats
